@@ -1,0 +1,6 @@
+For windows
+Double click on compile.bat followed by run.bat to run the application.
+
+For linux
+Manually run it through console by entering javac Main.java followed by java Main
+
