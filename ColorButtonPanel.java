@@ -1,10 +1,7 @@
-/*=====================*\
-|*  Simple Painter     *|
-|*---------------------*|
-|* 姓名： 張明曦	   *|
-|* 學號： 91403108     *|
-|* 系級： 資管二B	   *|
-\*=====================*/
+/**
+ *
+ * @author Aman
+ */
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
