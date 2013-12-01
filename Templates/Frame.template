@@ -1,0 +1,21 @@
+//Code Genarated by JGuiD
+import java.awt.*;
+import java.awt.event.*;
+
+public class GuiDFrame extends Frame
+{
+   [Variables]
+   public GuiDFrame()
+   {
+     this.setLayout(null);	
+     setupGUI();
+   }
+   void setupGUI()
+   {
+     [Intialization]
+   }
+    public static void main( String args[] )
+   {
+   }
+}  
+

@@ -1,0 +1,25 @@
+//Code Genarated by JGuiD
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+
+public class GuiDFrame extends JFrame
+{
+   [Variables]
+   public  GuiDFrame()
+   {
+     getContentPane().setLayout(null);
+     setupGUI();
+     setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+   }
+   void setupGUI()
+   {
+     [Intialization]
+   }
+    public static void main( String args[] )
+   {
+	new GuiDFrame();
+   }
+}  
+
+

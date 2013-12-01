@@ -1,0 +1,28 @@
+//Code Genarated by JGuiD
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+
+public class GuiDApplet extends JApplet
+{
+   [Variables]
+   public void init()
+   {
+	 getContentPane().setLayout(null);
+     setupGUI();
+   }
+   void setupGUI()
+   {
+     [Intialization]
+   }
+   public void start()
+   {
+   }
+   public void close()
+   {
+   }
+   public void destroy()
+   {
+   }
+}   
+
